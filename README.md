@@ -62,6 +62,7 @@ Material organizado e enviado ao NotebookLM para estudo ativo com IA: objetivos,
 | 1 | [Resumos](guia_estrategico_open_finance.md#parte-1-resumos-estruturados) | Conteúdo estruturado do material estudado | Concluído |
 | 2 | [Glossário](guia_estrategico_open_finance.md#parte-2-glossário-de-conceitos-chave) | Conceitos principais definidos | Concluído |
 | 3 | [Prompts](guia_estrategico_open_finance.md#parte-3-prompts-reutilizáveis-para-revisão) | Coleção reutilizável para revisões futuras | Concluído |
+| 4 | [Infográfico](https://notebooklm.google.com/notebook/471491c8-347d-4bf9-a6f2-c080cb602b7c?artifactId=0297133c-580d-4e28-b500-c92352f86935) | Visualização gerada no NotebookLM | Concluído |
 
 ---
 
