@@ -13,3 +13,16 @@ O resultado esperado é um miniguia de estudo com:
 - Conjunto de prompts reutilizáveis que apoiem futuras revisões
 
 A atividade enfatiza o uso da IA como ferramenta de aprendizagem ativa, aliando pensamento crítico, curadoria de fontes e organização do conhecimento.
+
+## Autor
+
+**Luciano Marinho Silveira**
+
+Gestão e Arquitetura Organizacional | Mestre em Administração | Processos, Dados e Inovação | Inteligência Artificial
+
+📍 Juiz de Fora, Minas Gerais, Brasil
+
+- **GitHub:** [@lucianomjf14](https://github.com/lucianomjf14)
+- **LinkedIn:** [luciano-marinho-silveira](https://www.linkedin.com/in/luciano-marinho-silveira)
+- **Lattes:** [CNPq](http://lattes.cnpq.br/8717991759915273)
+- **E-mail:** lucianomjf14@gmail.com
