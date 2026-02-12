@@ -143,27 +143,18 @@ Este projeto está sob a licença [MIT](LICENSE). As fontes documentais pertence
 
 <div align="center">
 
+<img src="https://github.com/lucianomjf14.png" width="150" style="border-radius: 50%;" alt="Luciano Marinho Silveira">
+
 ### Luciano Marinho Silveira
 
-*Gestão e Arquitetura Organizacional | Mestre em Administração | Processos, Dados e Inovação | Inteligência Artificial*
+Mestre em Administração | Gestão e Arquitetura Organizacional | Processos, Dados e Inovação | Inteligência Artificial
 
-Juiz de Fora, Minas Gerais, Brasil
-
-<br>
+Juiz de Fora, MG, Brasil
 
 [![GitHub](https://img.shields.io/badge/GitHub-lucianomjf14-181717?style=flat-square&logo=github)](https://github.com/lucianomjf14)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luciano_Silveira-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/luciano-marinho-silveira)
 [![DIO](https://img.shields.io/badge/DIO-Perfil-7C3AED?style=flat-square)](https://web.dio.me/users/lucianomjf14)
 [![Lattes](https://img.shields.io/badge/Lattes-CNPq-006B3F?style=flat-square)](http://lattes.cnpq.br/8717991759915273)
 [![Email](https://img.shields.io/badge/Email-lucianomjf14%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:lucianomjf14@gmail.com)
-
-<br>
-
-#### Habilidades
-
-![IA](https://img.shields.io/badge/Inteligência_Artificial-IA-8B5CF6?style=flat-square)
-![Excel](https://img.shields.io/badge/Excel-Microsoft-217346?style=flat-square&logo=microsoftexcel)
-![LLMs](https://img.shields.io/badge/LLMs-Language_Models-10B981?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Engenharia_de_Prompt-Prompts-F59E0B?style=flat-square)
 
 </div>
