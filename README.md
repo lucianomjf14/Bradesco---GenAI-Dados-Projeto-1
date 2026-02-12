@@ -66,8 +66,7 @@ Um miniguia de estudo contendo:
 ├── fontes/           # PDFs oficiais utilizados no NotebookLM
 │   ├── README.md     # Descrição das fontes
 │   └── *.pdf         # 4 documentos BCB/CMN
-├── README.md
-└── requisitos.md     # (local, fora do GitHub)
+└── README.md
 ```
 
 ---
