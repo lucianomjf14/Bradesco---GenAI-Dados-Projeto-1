@@ -13,50 +13,46 @@
 
 ## 📑 Índice
 
-- [Descrição](#-descrição)
-- [Tema e fontes](#-tema-e-fontes)
-- [Resultado esperado](#-resultado-esperado)
+- [Sobre o Projeto 1](#-sobre-o-projeto-1)
+- [O que foi feito](#-o-que-foi-feito)
 - [Estrutura do projeto](#-estrutura-do-projeto)
 - [Autor](#-autor)
 
 ---
 
-## 📖 Descrição
+## 📋 Sobre o Projeto 1
 
-O desafio propõe a criação de um **caderno temático no NotebookLM**, reunindo de **três a cinco fontes abertas** em texto ou PDF sobre um assunto financeiro introdutório.
-
-A partir desse material, são definidos:
-- Objetivos de estudo
-- Perguntas estratégicas
-- Variações de prompts testadas
-- Registro das respostas e referências
+*Desafio do bootcamp:* criação de caderno temático no NotebookLM com 3 a 5 fontes abertas sobre assunto financeiro introdutório, gerando miniguia de estudo com resumos, glossário e prompts reutilizáveis.
 
 ---
 
-## 🎯 Tema e fontes
+## ✅ O que foi feito
 
-**Tema:** Open Finance / Open Banking – sistema financeiro aberto no Brasil
+### Tema escolhido
 
-**Fontes utilizadas** (órgãos oficiais BCB/CMN):
+**Open Finance / Open Banking** – sistema financeiro aberto no Brasil (conceitos, regulamentação, benefícios).
+
+### Fontes reunidas (órgãos oficiais BCB/CMN)
+
 - Resolução Conjunta BCB/CMN nº 1/2020 – Implementação do Open Banking
 - Circular BCB nº 4.015/2020 – Escopo de dados e serviços
 - Apresentação institucional BCB – Open Finance no Brasil
 - FAQ Open Banking (BCB)
 - Circular 4.015 – Exibe Normativo BCB (texto)
 
----
+### Caderno NotebookLM
 
-## 🎯 Resultado esperado
+Material organizado e enviado ao NotebookLM para estudo ativo com IA: objetivos, perguntas estratégicas e variações de prompts.
 
-Um miniguia de estudo contendo:
+> **[📓 Acessar o caderno no NotebookLM](https://notebooklm.google.com/notebook/471491c8-347d-4bf9-a6f2-c080cb602b7c)**
+
+### Entregas previstas
 
 | Entrega | Descrição |
 |---------|-----------|
 | 📝 Resumos | Conteúdo estruturado do material estudado |
 | 📖 Glossário | Conceitos principais definidos |
 | 🔄 Prompts | Coleção reutilizável para revisões futuras |
-
-> A atividade enfatiza o uso da **IA como ferramenta de aprendizagem ativa**, aliando pensamento crítico, curadoria de fontes e organização do conhecimento.
 
 ---
 
