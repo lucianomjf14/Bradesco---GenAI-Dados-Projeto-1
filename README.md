@@ -3,7 +3,7 @@
 # Bradesco - GenAI Dados Projeto 1
 
 ![DIO](https://img.shields.io/badge/DIO-Bootcamp-7C3AED?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiPjxnIGNpcmNsZT0iMTIgMTIgMTAiLz48L3N2Zz4=)
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-22C55E?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-22C55E?style=for-the-badge)
 
 *Projeto do bootcamp DIO - Bradesco GenAI e Dados*
 
@@ -13,17 +13,24 @@
 
 ## Índice
 
-- [Sobre o Projeto 1](#sobre-o-projeto-1)
+- [Sobre o Projeto](#sobre-o-projeto)
 - [O que foi feito](#o-que-foi-feito)
 - [Guia Estratégico](#guia-estratégico)
+- [Ferramentas utilizadas](#ferramentas-utilizadas)
+- [Aprendizados](#aprendizados)
 - [Estrutura do projeto](#estrutura-do-projeto)
+- [Licença](#licença)
 - [Autor](#autor)
 
 ---
 
-## Sobre o Projeto 1
+## Sobre o Projeto
 
-*Desafio do bootcamp:* criação de caderno temático no NotebookLM com 3 a 5 fontes abertas sobre assunto financeiro introdutório, gerando miniguia de estudo com resumos, glossário e prompts reutilizáveis.
+Este projeto faz parte do bootcamp **Bradesco – GenAI e Dados** da [DIO](https://www.dio.me/). O desafio propõe a criação de um caderno temático no NotebookLM, reunindo de três a cinco fontes abertas em texto ou PDF sobre um assunto financeiro introdutório.
+
+A partir desse material, são definidos objetivos de estudo, elaboradas perguntas estratégicas e testadas variações de prompts, registrando as respostas e suas referências. O resultado esperado é um miniguia de estudo com resumos estruturados, glossário de conceitos e um conjunto de prompts reutilizáveis que apoiem futuras revisões.
+
+A atividade enfatiza o uso da IA como ferramenta de aprendizagem ativa, aliando pensamento crítico, curadoria de fontes e organização do conhecimento.
 
 ---
 
@@ -87,6 +94,29 @@ Material organizado e enviado ao NotebookLM para estudo ativo com IA: objetivos,
 
 ---
 
+## Ferramentas utilizadas
+
+| Ferramenta | Finalidade |
+|------------|------------|
+| [Google NotebookLM](https://notebooklm.google.com/) | Caderno temático com IA para estudo ativo a partir das fontes |
+| [GitHub](https://github.com/) | Versionamento e publicação do repositório do projeto |
+| [VS Code](https://code.visualstudio.com/) | Edição dos arquivos Markdown e gestão do repositório |
+| [GitHub Copilot](https://github.com/features/copilot) | Assistente de IA para estruturação e revisão do conteúdo |
+
+---
+
+## Aprendizados
+
+Durante o desenvolvimento deste projeto, os principais aprendizados foram:
+
+- **Curadoria de fontes** — Selecionar documentos oficiais de qualidade (BCB/CMN) e organizá-los de forma estruturada para consumo por IA.
+- **Engenharia de prompts** — Elaborar perguntas estratégicas e variações de prompts que extraem respostas mais precisas e contextualizadas do NotebookLM.
+- **IA como ferramenta de estudo** — Utilizar o NotebookLM não apenas para buscar respostas, mas como instrumento de aprendizagem ativa: gerar resumos, glossários, infográficos e mapas mentais a partir das fontes.
+- **Organização do conhecimento** — Transformar conteúdo regulatório denso em material de estudo acessível, estruturado e reutilizável.
+- **Documentação profissional** — Aplicar boas práticas de documentação em repositórios GitHub, com README bem estruturado, links internos e organização de pastas.
+
+---
+
 ## Estrutura do projeto
 
 ```
@@ -100,6 +130,12 @@ Material organizado e enviado ao NotebookLM para estudo ativo com IA: objetivos,
 ├── guia_estrategico_open_finance.md     # Miniguia de estudo (resumos + glossário + prompts)
 └── README.md
 ```
+
+---
+
+## Licença
+
+Este projeto está sob a licença [MIT](LICENSE). As fontes documentais pertencem ao Banco Central do Brasil (BCB) e ao Conselho Monetário Nacional (CMN) e são de domínio público.
 
 ---
 
