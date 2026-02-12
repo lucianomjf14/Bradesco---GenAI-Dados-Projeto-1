@@ -83,7 +83,7 @@ Material organizado e enviado ao NotebookLM para estudo ativo com IA: objetivos,
 
 **[Guia Estratégico e Regulatório do Open Finance Brasil](guia_estrategico_open_finance.md)** — Miniguia de estudo gerado a partir do caderno no NotebookLM, contendo resumos estruturados, glossário de conceitos-chave e prompts reutilizáveis para revisão.
 
-**[Apresentação Visual – Open Finance no Brasil](https://notebooklm.google.com/notebook/471491c8-347d-4bf9-a6f2-c080cb602b7c?artifactId=b1b259d9-178f-444b-8f4e-6d924d5e6cb9)** — Apresentação gerada no NotebookLM com visão consolidada do conteúdo estudado.
+**[Apresentação Visual – Open Finance no Brasil](assets/Open_Finance_Brasil_Guia_Essencial.pdf)** — Apresentação gerada no NotebookLM com visão consolidada do conteúdo estudado.
 
 ---
 
@@ -92,7 +92,8 @@ Material organizado e enviado ao NotebookLM para estudo ativo com IA: objetivos,
 ```
 ├── assets/                              # Recursos visuais do projeto
 │   ├── infografico_open_finance.png      # Infográfico gerado no NotebookLM
-│   └── mapa-mental.png                  # Mapa mental gerado no NotebookLM
+│   ├── mapa-mental.png                  # Mapa mental gerado no NotebookLM
+│   └── Open_Finance_Brasil_Guia_Essencial.pdf  # Apresentação visual (NotebookLM)
 ├── fontes/                              # PDFs oficiais utilizados no NotebookLM
 │   ├── README.md                        # Descrição das fontes
 │   └── *.pdf                            # 4 documentos BCB/CMN
