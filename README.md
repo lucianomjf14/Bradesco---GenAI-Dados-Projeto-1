@@ -29,31 +29,39 @@
 
 ## O que foi feito
 
-### Tema escolhido
+### 1. Tema escolhido
 
-**Open Finance / Open Banking** – sistema financeiro aberto no Brasil (conceitos, regulamentação, benefícios).
+| Item | Detalhe |
+|------|---------|
+| **Tema** | Open Finance / Open Banking |
+| **Escopo** | Sistema financeiro aberto no Brasil: conceitos, regulamentação e benefícios |
+| **Base regulatória** | Banco Central do Brasil (BCB) e Conselho Monetário Nacional (CMN) |
 
-### Fontes reunidas (órgãos oficiais BCB/CMN)
+### 2. Fontes reunidas
 
-- [Resolução Conjunta BCB/CMN nº 1/2020](fontes/01_BCB_CMN_Resolucao_Conjunta_1_2020_Implementacao_Open_Banking.pdf) – Implementação do Open Banking
-- [Circular BCB nº 4.015/2020](fontes/02_BCB_Circular_4015_2020_Escopo_Dados_Servicos.pdf) – Escopo de dados e serviços
-- [Apresentação institucional BCB](fontes/03_BCB_Apresentacao_Open_Finance_Brasil.pdf) – Open Finance no Brasil
-- [FAQ Open Banking (BCB)](fontes/04_BCB_FAQ_Open_Banking.pdf) – Perguntas e respostas
-- [Circular 4.015 – Exibe Normativo (texto)](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=4015) – Versão no portal do BCB
+Documentos oficiais utilizados como insumo para o caderno temático:
 
-### Caderno NotebookLM
+| # | Fonte | Orgão | Tipo |
+|---|-------|-------|------|
+| 1 | [Resolução Conjunta BCB/CMN nº 1/2020](fontes/01_BCB_CMN_Resolucao_Conjunta_1_2020_Implementacao_Open_Banking.pdf) | BCB / CMN | PDF |
+| 2 | [Circular BCB nº 4.015/2020](fontes/02_BCB_Circular_4015_2020_Escopo_Dados_Servicos.pdf) | BCB | PDF |
+| 3 | [Apresentação institucional – Open Finance](fontes/03_BCB_Apresentacao_Open_Finance_Brasil.pdf) | BCB | PDF |
+| 4 | [FAQ Open Banking](fontes/04_BCB_FAQ_Open_Banking.pdf) | BCB | PDF |
+| 5 | [Circular 4.015 – Exibe Normativo](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=4015) | BCB | Web |
+
+### 3. Caderno NotebookLM
 
 Material organizado e enviado ao NotebookLM para estudo ativo com IA: objetivos, perguntas estratégicas e variações de prompts.
 
 > **[Acessar o caderno no NotebookLM](https://notebooklm.google.com/notebook/471491c8-347d-4bf9-a6f2-c080cb602b7c)**
 
-### Entregas previstas
+### 4. Entregas
 
-| Entrega | Descrição | Status |
-|---------|-----------|--------|
-| [Resumos](guia_estrategico_open_finance.md#parte-1-resumos-estruturados) | Conteúdo estruturado do material estudado | Concluído |
-| [Glossário](guia_estrategico_open_finance.md#parte-2-glossário-de-conceitos-chave) | Conceitos principais definidos | Concluído |
-| [Prompts](guia_estrategico_open_finance.md#parte-3-prompts-reutilizáveis-para-revisão) | Coleção reutilizável para revisões futuras | Concluído |
+| # | Entrega | Descrição | Status |
+|---|---------|-----------|--------|
+| 1 | [Resumos](guia_estrategico_open_finance.md#parte-1-resumos-estruturados) | Conteúdo estruturado do material estudado | Concluído |
+| 2 | [Glossário](guia_estrategico_open_finance.md#parte-2-glossário-de-conceitos-chave) | Conceitos principais definidos | Concluído |
+| 3 | [Prompts](guia_estrategico_open_finance.md#parte-3-prompts-reutilizáveis-para-revisão) | Coleção reutilizável para revisões futuras | Concluído |
 
 ---
 
