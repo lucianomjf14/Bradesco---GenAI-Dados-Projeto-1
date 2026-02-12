@@ -51,20 +51,15 @@ Material organizado e enviado ao NotebookLM para estudo ativo com IA: objetivos,
 
 | Entrega | Descrição | Status |
 |---------|-----------|--------|
-| Resumos | Conteúdo estruturado do material estudado | Concluído |
-| Glossário | Conceitos principais definidos | Concluído |
-| Prompts | Coleção reutilizável para revisões futuras | Concluído |
+| [Resumos](guia_estrategico_open_finance.md#parte-1-resumos-estruturados) | Conteúdo estruturado do material estudado | Concluído |
+| [Glossário](guia_estrategico_open_finance.md#parte-2-glossário-de-conceitos-chave) | Conceitos principais definidos | Concluído |
+| [Prompts](guia_estrategico_open_finance.md#parte-3-prompts-reutilizáveis-para-revisão) | Coleção reutilizável para revisões futuras | Concluído |
 
 ---
 
 ## Guia Estratégico
 
-**[Guia Estratégico e Regulatório do Open Finance Brasil](guia_estrategico_open_finance.md)**
-
-Miniguia de estudo gerado a partir do caderno no NotebookLM, contendo:
-- **Resumos estruturados** — Fundamentos, participantes, jornada do cliente e fases de implementação
-- **Glossário** — Conceitos-chave como API, Consentimento, PISP, Reciprocidade e outros
-- **Prompts reutilizáveis** — Perguntas prontas para revisão e aprofundamento no NotebookLM
+**[Guia Estratégico e Regulatório do Open Finance Brasil](guia_estrategico_open_finance.md)** — Miniguia de estudo gerado a partir do caderno no NotebookLM, contendo resumos estruturados, glossário de conceitos-chave e prompts reutilizáveis para revisão.
 
 ---
 
