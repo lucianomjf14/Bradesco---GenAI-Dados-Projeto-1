@@ -14,7 +14,9 @@
 ## 📑 Índice
 
 - [Descrição](#-descrição)
-- [Resultado Esperado](#-resultado-esperado)
+- [Tema e fontes](#-tema-e-fontes)
+- [Resultado esperado](#-resultado-esperado)
+- [Estrutura do projeto](#-estrutura-do-projeto)
 - [Autor](#-autor)
 
 ---
@@ -31,7 +33,20 @@ A partir desse material, são definidos:
 
 ---
 
-## 🎯 Resultado Esperado
+## 🎯 Tema e fontes
+
+**Tema:** Open Finance / Open Banking – sistema financeiro aberto no Brasil
+
+**Fontes utilizadas** (órgãos oficiais BCB/CMN):
+- Resolução Conjunta BCB/CMN nº 1/2020 – Implementação do Open Banking
+- Circular BCB nº 4.015/2020 – Escopo de dados e serviços
+- Apresentação institucional BCB – Open Finance no Brasil
+- FAQ Open Banking (BCB)
+- Circular 4.015 – Exibe Normativo BCB (texto)
+
+---
+
+## 🎯 Resultado esperado
 
 Um miniguia de estudo contendo:
 
@@ -42,6 +57,18 @@ Um miniguia de estudo contendo:
 | 🔄 Prompts | Coleção reutilizável para revisões futuras |
 
 > A atividade enfatiza o uso da **IA como ferramenta de aprendizagem ativa**, aliando pensamento crítico, curadoria de fontes e organização do conhecimento.
+
+---
+
+## 📁 Estrutura do projeto
+
+```
+├── fontes/           # PDFs oficiais utilizados no NotebookLM
+│   ├── README.md     # Descrição das fontes
+│   └── *.pdf         # 4 documentos BCB/CMN
+├── README.md
+└── requisitos.md     # (local, fora do GitHub)
+```
 
 ---
 
