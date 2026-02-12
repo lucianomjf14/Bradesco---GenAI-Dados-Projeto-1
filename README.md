@@ -63,12 +63,17 @@ Material organizado e enviado ao NotebookLM para estudo ativo com IA: objetivos,
 | 2 | [Glossário](guia_estrategico_open_finance.md#parte-2-glossário-de-conceitos-chave) | Conceitos principais definidos | Concluído |
 | 3 | [Prompts](guia_estrategico_open_finance.md#parte-3-prompts-reutilizáveis-para-revisão) | Coleção reutilizável para revisões futuras | Concluído |
 | 4 | [Infográfico](assets/infografico_open_finance.png) | Visualização gerada no NotebookLM | Concluído |
+| 5 | [Mapa Mental](assets/mapa-mental.png) | Estrutura visual de conceitos gerada no NotebookLM | Concluído |
 
 <div align="center">
 
 ![Infográfico Open Finance no Brasil](assets/infografico_open_finance.png)
 
 *Infográfico gerado com o NotebookLM a partir das fontes oficiais do BCB/CMN.*
+
+![Mapa Mental Open Finance](assets/mapa-mental.png)
+
+*Mapa mental gerado com o NotebookLM a partir das fontes oficiais do BCB/CMN.*
 
 </div>
 
@@ -84,7 +89,8 @@ Material organizado e enviado ao NotebookLM para estudo ativo com IA: objetivos,
 
 ```
 ├── assets/                              # Recursos visuais do projeto
-│   └── infografico_open_finance.png      # Infográfico gerado no NotebookLM
+│   ├── infografico_open_finance.png      # Infográfico gerado no NotebookLM
+│   └── mapa-mental.png                  # Mapa mental gerado no NotebookLM
 ├── fontes/                              # PDFs oficiais utilizados no NotebookLM
 │   ├── README.md                        # Descrição das fontes
 │   └── *.pdf                            # 4 documentos BCB/CMN
