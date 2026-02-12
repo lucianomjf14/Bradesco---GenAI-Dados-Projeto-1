@@ -35,11 +35,11 @@
 
 ### Fontes reunidas (órgãos oficiais BCB/CMN)
 
-- Resolução Conjunta BCB/CMN nº 1/2020 – Implementação do Open Banking
-- Circular BCB nº 4.015/2020 – Escopo de dados e serviços
-- Apresentação institucional BCB – Open Finance no Brasil
-- FAQ Open Banking (BCB)
-- Circular 4.015 – Exibe Normativo BCB (texto)
+- [Resolução Conjunta BCB/CMN nº 1/2020](fontes/01_BCB_CMN_Resolucao_Conjunta_1_2020_Implementacao_Open_Banking.pdf) – Implementação do Open Banking
+- [Circular BCB nº 4.015/2020](fontes/02_BCB_Circular_4015_2020_Escopo_Dados_Servicos.pdf) – Escopo de dados e serviços
+- [Apresentação institucional BCB](fontes/03_BCB_Apresentacao_Open_Finance_Brasil.pdf) – Open Finance no Brasil
+- [FAQ Open Banking (BCB)](fontes/04_BCB_FAQ_Open_Banking.pdf) – Perguntas e respostas
+- [Circular 4.015 – Exibe Normativo (texto)](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=4015) – Versão no portal do BCB
 
 ### Caderno NotebookLM
 
