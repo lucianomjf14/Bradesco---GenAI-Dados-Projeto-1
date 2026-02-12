@@ -24,5 +24,13 @@ Gestão e Arquitetura Organizacional | Mestre em Administração | Processos, Da
 
 - **GitHub:** [@lucianomjf14](https://github.com/lucianomjf14)
 - **LinkedIn:** [luciano-marinho-silveira](https://www.linkedin.com/in/luciano-marinho-silveira)
+- **DIO:** [Perfil na Digital Innovation One](https://web.dio.me/users/lucianomjf14)
 - **Lattes:** [CNPq](http://lattes.cnpq.br/8717991759915273)
 - **E-mail:** lucianomjf14@gmail.com
+
+### Habilidades (DIO)
+
+- Inteligência Artificial (IA)
+- Excel
+- LLMs
+- Engenharia de Prompt
