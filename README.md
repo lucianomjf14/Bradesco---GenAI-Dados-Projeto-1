@@ -34,6 +34,18 @@ A atividade enfatiza o uso da IA como ferramenta de aprendizagem ativa, aliando 
 
 ---
 
+## Processo de Discovery
+
+```mermaid
+flowchart LR
+    A["Curadoria\nFontes oficiais BCB/CMN"] --> B["Organização\nNotebookLM"]
+    B --> C["Análise\nPrompts estratégicos"]
+    C --> D["Síntese\nResumos + Glossário"]
+    D --> E["Artefatos\nInfográfico + Mapa mental"]
+```
+
+---
+
 ## O que foi feito
 
 ### 1. Tema escolhido
